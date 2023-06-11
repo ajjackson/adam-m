@@ -905,7 +905,7 @@
     (property "Reference" "U1" (at 195.58 44.6278 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "ProMicro-kbd" (at 195.58 47.3202 0)
+    (property "Value" "ProMicro-pinout" (at 195.58 47.3202 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "footprint:ProMicro_v3_min" (at 195.58 50.0126 0)
